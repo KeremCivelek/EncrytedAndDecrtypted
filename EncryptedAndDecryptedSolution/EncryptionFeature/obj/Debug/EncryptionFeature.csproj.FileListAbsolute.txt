@@ -1,0 +1,5 @@
+F:\GitHubProjects\EncryptedAndDecrtyted\EncryptedAndDecryptedSolution\EncryptionFeature\bin\Debug\EncryptionFeature.dll
+F:\GitHubProjects\EncryptedAndDecrtyted\EncryptedAndDecryptedSolution\EncryptionFeature\bin\Debug\EncryptionFeature.pdb
+F:\GitHubProjects\EncryptedAndDecrtyted\EncryptedAndDecryptedSolution\EncryptionFeature\obj\Debug\EncryptionFeature.csproj.CoreCompileInputs.cache
+F:\GitHubProjects\EncryptedAndDecrtyted\EncryptedAndDecryptedSolution\EncryptionFeature\obj\Debug\EncryptionFeature.dll
+F:\GitHubProjects\EncryptedAndDecrtyted\EncryptedAndDecryptedSolution\EncryptionFeature\obj\Debug\EncryptionFeature.pdb
